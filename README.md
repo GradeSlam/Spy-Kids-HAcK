@@ -1,0 +1,1 @@
+Laser Cut Watch CAD Files: The naming of the CAD files for the parts of the laser cut watch might seem off but they were just kept the same as to not mess up the references for the assemblies. Keep the names the same and as long as you open the assemblies you should be good. Sorry for the inconvience.
